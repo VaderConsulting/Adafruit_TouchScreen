@@ -2,6 +2,7 @@
 
 Adafruit TouchScreen display library. Original author: Adafruit. This is Dave Robinson's working copy from the Arduino `libraries` tree. Version recorded in `library.properties`: 1.1.3. Upstream: <https://github.com/adafruit/Adafruit_TouchScreen>.
 
+**Source last updated:** 2021-10-06  
 **Language:** C++ / Arduino  
 **Target:** Arduino (*)  
 **Output:** Arduino library
