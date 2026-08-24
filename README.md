@@ -1,17 +1,32 @@
 # Adafruit_TouchScreen
 
-Arduino sketch or library from the Arduino archive.
+Adafruit TouchScreen display library. Original author: Adafruit. This is Dave Robinson's working copy from the Arduino `libraries` tree. Version recorded in `library.properties`: 1.1.3. Upstream: <https://github.com/adafruit/Adafruit_TouchScreen>.
 
-## Contents
+**Language:** C++ / Arduino  
+**Target:** Arduino (*)  
+**Output:** Arduino library
 
-- `examples/touchscreendemo/touchscreendemo.ino`
-- `examples/touchscreendemoshield/touchscreendemoshield.ino`
-- `library.properties`
+## Solution structure
+
+| Project | Language | Type | Purpose |
+|---------|----------|------|---------|
+| `Adafruit TouchScreen` | C++ / Arduino | library | Adafruit TouchScreen display library |
+| `touchscreendemo` | C++ / Arduino | example sketch | `examples/touchscreendemo/touchscreendemo.ino` |
+| `touchscreendemoshield` | C++ / Arduino | example sketch | `examples/touchscreendemoshield/touchscreendemoshield.ino` |
+
+## How to open
+
+Install this folder as an Arduino library (Sketch → Include Library → Add .ZIP Library, or copy into `libraries/Adafruit_TouchScreen`). Open any `examples/*.ino` from the Arduino IDE.
 
 ## Attribution and provenance
 
-- No third-party source-code attribution markers were identified in assembly/package metadata.
+- **Original author / maintainer:** Adafruit
+- **library.properties name:** Adafruit TouchScreen
+- **Version:** 1.1.3
+- **Upstream URL:** <https://github.com/adafruit/Adafruit_TouchScreen>
+- **Category:** Display
+- This repository is Dave Robinson's working copy for catalogue/reference; authorship stays with the original authors.
 
 ## License
 
-MIT. See `LICENSE`.
+Original bsd-style terms in `license.txt`. This repository does not claim authorship of the upstream library. See `THIRD_PARTY_NOTICES.md`. The `LICENSE` file added at import is a VaderConsulting MIT wrapper and does not replace upstream terms.
