@@ -34,4 +34,4 @@ Install this folder as an Arduino library (Sketch → Include Library → Add .Z
 
 ## License
 
-Original bsd-style terms in `license.txt`. This repository does not claim authorship of the upstream library. See `THIRD_PARTY_NOTICES.md`. The `LICENSE` file added at import is a VaderConsulting MIT wrapper and does not replace upstream terms.
+Original bsd-style terms in `license.txt`. This repository does not claim authorship of the upstream library. See `THIRD_PARTY_NOTICES.md`. The `LICENSE` file added at import is a Vader Consulting MIT wrapper and does not replace upstream terms.
